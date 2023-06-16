@@ -1,1 +1,1 @@
-# odin-recipes
+ This is  Recipes project it is all about html where we learnt various skills related how to bluid content of web pages and websites, forexample in this project I design recipe page which show the most loved and wonderful recipes. So, at the end of this project  I will be able to design different web pages which will help me to become full stack developer as long as I will procced(continue).
